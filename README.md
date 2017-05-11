@@ -7,4 +7,4 @@
 
 #### the result is pretty impressive, most cases segementation is accuracy, you can check the example result in the repository. I think it is worthing to expolore more models and more datasets, maybe training the model with cases that contain nodules in lung region.
 
-#### if you think it is helpful, please give a star, thinks very much.
+#### if you think it is helpful, please give a star, thanks very much.
