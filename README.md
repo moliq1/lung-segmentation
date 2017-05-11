@@ -1,0 +1,1 @@
+# Application-of-full-convolution-network-in-lung-segmentation-of-medical-CT-images
